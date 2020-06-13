@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573078422619",
+    "firebase_url": "https://chat-bat.firebaseio.com",
+    "project_id": "chat-bat",
+    "storage_bucket": "chat-bat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573078422619:android:0d5ef05774d8bd3e196b7e",
+        "android_client_info": {
+          "package_name": "com.example.collegeproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573078422619-v5vuqd5kjkqum4raaskrlt4gvr1ug5jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeproject",
+            "certificate_hash": "a99a3f9a73fd64c92af6545bdc8405577f61b2e8"
+          }
+        },
+        {
+          "client_id": "573078422619-9572tq012aqu4s8nns1mnkgkd38an3i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeVjPY4RR1-DqoqWH0UV_I8VBmn1gJWuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573078422619-9572tq012aqu4s8nns1mnkgkd38an3i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
